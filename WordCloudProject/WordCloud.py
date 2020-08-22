@@ -36,7 +36,7 @@ def calculate_frequencies(file_contents):
                            "everybody", "big", "full", "stay", "run", "true", "monday", "school", "over", "yes",
                            "whatever", "save", "since", "mine", "turn", "kiss", "eyes", "head", "yourself", "spit",
                            "buy", "chance", "hit", "there", "guess", "play", "myself", "said", "made", "comes",
-                           "should", "lil"]
+                           "should", "lil", "hold", "least", "mouth", "tryna"]
 
     punctuation_list = []
     for punctuation in punctuations:
