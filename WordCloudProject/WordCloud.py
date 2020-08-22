@@ -9,7 +9,7 @@
 
 import wordcloud
 from matplotlib import pyplot as plt
-#test
+
 
 def _upload():
     # This is the file uploader
@@ -43,8 +43,6 @@ def calculate_frequencies(file_contents):
         punctuation_list += punctuation
     frequencies = {}
 
-
-    # LEARNER CODE START HERE
     file_contents = file_contents.lower()
     file_contents = file_contents.split()
     for word in file_contents:
